@@ -1,0 +1,121 @@
+{
+  "common": {
+    "login": "Login",
+    "logout": "Logout",
+    "email": "Email",
+    "password": "Password",
+    "submit": "Submit",
+    "cancel": "Cancel",
+    "save": "Save",
+    "delete": "Delete",
+    "edit": "Edit",
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success",
+    "welcome": "Welcome",
+    "profile": "Profile",
+    "dashboard": "Dashboard",
+    "exercises": "Exercises",
+    "payment": "Payment",
+    "settings": "Settings"
+  },
+  "auth": {
+    "loginTitle": "Sign In",
+    "loginSubtitle": "Access your personalized workout program",
+    "invalidCredentials": "Invalid email or password",
+    "loginSuccess": "Login successful!",
+    "logoutSuccess": "Logged out successfully",
+    "sessionExpired": "Your session has expired. Please login again.",
+    "accessDenied": "Access denied. Please login to continue.",
+    "forgotPassword": "Forgot Password?",
+    "rememberMe": "Remember me"
+  },
+  "exercises": {
+    "title": "Your Exercises",
+    "categories": {
+      "strength": "Strength Training",
+      "cardio": "Cardio",
+      "flexibility": "Flexibility",
+      "balance": "Balance",
+      "endurance": "Endurance"
+    },
+    "videoPlayer": {
+      "play": "Play",
+      "pause": "Pause",
+      "mute": "Mute",
+      "unmute": "Unmute",
+      "fullscreen": "Fullscreen",
+      "exitFullscreen": "Exit Fullscreen",
+      "speed": "Speed"
+    },
+    "form": {
+      "correctForm": "Correct Form",
+      "instructions": "Instructions",
+      "commonMistakes": "Common Mistakes",
+      "tips": "Pro Tips"
+    },
+    "progress": {
+      "completed": "Completed",
+      "inProgress": "In Progress",
+      "notStarted": "Not Started",
+      "markComplete": "Mark as Complete"
+    }
+  },
+  "dashboard": {
+    "welcomeBack": "Welcome back",
+    "todayWorkout": "Today's Workout",
+    "recentActivity": "Recent Activity",
+    "progress": "Your Progress",
+    "assignedExercises": "Assigned Exercises",
+    "completionRate": "Completion Rate",
+    "totalExercises": "Total Exercises",
+    "hoursCompleted": "Hours Completed"
+  },
+  "payment": {
+    "title": "Subscription Plans",
+    "currentPlan": "Current Plan",
+    "plans": {
+      "basic": {
+        "name": "Basic",
+        "price": "$9.99/month",
+        "features": [
+          "Access to basic exercises",
+          "Progress tracking",
+          "Mobile app access"
+        ]
+      },
+      "premium": {
+        "name": "Premium",
+        "price": "$19.99/month",
+        "features": [
+          "Access to all exercises",
+          "Personalized workout plans",
+          "Video form analysis",
+          "Priority support"
+        ]
+      },
+      "pro": {
+        "name": "Professional",
+        "price": "$29.99/month",
+        "features": [
+          "Everything in Premium",
+          "1-on-1 virtual sessions",
+          "Custom nutrition plans",
+          "Advanced analytics"
+        ]
+      }
+    },
+    "subscribe": "Subscribe",
+    "manageSubscription": "Manage Subscription",
+    "billingHistory": "Billing History",
+    "nextBilling": "Next Billing Date",
+    "cardDetails": "Card Details",
+    "freeTrial": "7-day Free Trial"
+  },
+  "navigation": {
+    "home": "Home",
+    "exercises": "Exercises",
+    "payment": "Payment",
+    "profile": "Profile"
+  }
+}
