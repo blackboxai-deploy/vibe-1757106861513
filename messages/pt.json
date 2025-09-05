@@ -1,0 +1,121 @@
+{
+  "common": {
+    "login": "Entrar",
+    "logout": "Sair",
+    "email": "Email",
+    "password": "Senha",
+    "submit": "Enviar",
+    "cancel": "Cancelar",
+    "save": "Salvar",
+    "delete": "Excluir",
+    "edit": "Editar",
+    "loading": "Carregando...",
+    "error": "Erro",
+    "success": "Sucesso",
+    "welcome": "Bem-vindo",
+    "profile": "Perfil",
+    "dashboard": "Painel",
+    "exercises": "Exercícios",
+    "payment": "Pagamento",
+    "settings": "Configurações"
+  },
+  "auth": {
+    "loginTitle": "Fazer Login",
+    "loginSubtitle": "Acesse seu programa de treino personalizado",
+    "invalidCredentials": "Email ou senha inválidos",
+    "loginSuccess": "Login realizado com sucesso!",
+    "logoutSuccess": "Logout realizado com sucesso",
+    "sessionExpired": "Sua sessão expirou. Faça login novamente.",
+    "accessDenied": "Acesso negado. Faça login para continuar.",
+    "forgotPassword": "Esqueceu a Senha?",
+    "rememberMe": "Lembrar de mim"
+  },
+  "exercises": {
+    "title": "Seus Exercícios",
+    "categories": {
+      "strength": "Treinamento de Força",
+      "cardio": "Cardio",
+      "flexibility": "Flexibilidade",
+      "balance": "Equilíbrio",
+      "endurance": "Resistência"
+    },
+    "videoPlayer": {
+      "play": "Reproduzir",
+      "pause": "Pausar",
+      "mute": "Silenciar",
+      "unmute": "Ativar Som",
+      "fullscreen": "Tela Cheia",
+      "exitFullscreen": "Sair da Tela Cheia",
+      "speed": "Velocidade"
+    },
+    "form": {
+      "correctForm": "Forma Correta",
+      "instructions": "Instruções",
+      "commonMistakes": "Erros Comuns",
+      "tips": "Dicas Profissionais"
+    },
+    "progress": {
+      "completed": "Concluído",
+      "inProgress": "Em Progresso",
+      "notStarted": "Não Iniciado",
+      "markComplete": "Marcar como Concluído"
+    }
+  },
+  "dashboard": {
+    "welcomeBack": "Bem-vindo de volta",
+    "todayWorkout": "Treino de Hoje",
+    "recentActivity": "Atividade Recente",
+    "progress": "Seu Progresso",
+    "assignedExercises": "Exercícios Atribuídos",
+    "completionRate": "Taxa de Conclusão",
+    "totalExercises": "Total de Exercícios",
+    "hoursCompleted": "Horas Concluídas"
+  },
+  "payment": {
+    "title": "Planos de Assinatura",
+    "currentPlan": "Plano Atual",
+    "plans": {
+      "basic": {
+        "name": "Básico",
+        "price": "R$ 29,99/mês",
+        "features": [
+          "Acesso a exercícios básicos",
+          "Acompanhamento de progresso",
+          "Acesso ao aplicativo móvel"
+        ]
+      },
+      "premium": {
+        "name": "Premium",
+        "price": "R$ 59,99/mês",
+        "features": [
+          "Acesso a todos os exercícios",
+          "Planos de treino personalizados",
+          "Análise de forma em vídeo",
+          "Suporte prioritário"
+        ]
+      },
+      "pro": {
+        "name": "Profissional",
+        "price": "R$ 89,99/mês",
+        "features": [
+          "Tudo do Premium",
+          "Sessões virtuais individuais",
+          "Planos nutricionais personalizados",
+          "Análises avançadas"
+        ]
+      }
+    },
+    "subscribe": "Assinar",
+    "manageSubscription": "Gerenciar Assinatura",
+    "billingHistory": "Histórico de Cobrança",
+    "nextBilling": "Próxima Data de Cobrança",
+    "cardDetails": "Detalhes do Cartão",
+    "freeTrial": "7 dias de Teste Grátis"
+  },
+  "navigation": {
+    "home": "Início",
+    "exercises": "Exercícios",
+    "payment": "Pagamento",
+    "profile": "Perfil"
+  }
+}
